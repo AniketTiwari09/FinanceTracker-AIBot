@@ -72,33 +72,29 @@ Ensure you have the following installed:
 ---
 
 ### Clone the Repository
-    ```bash
     git clone https://github.com/AniketTiwari09/FinanceTracker-AIBot.git
 
 ### Install Dependencies
-      ```bash
         cd budget-app
         npm install
 
 ### Start the Application
 Run the backend server:
-      ```bash
         
         cd ../Backend
         node server.js
 
 Start the frontend app:
-      ```bash
 
             npm start
 
 🧪 Testing
 Run Cypress Tests
-    ```bash
+
     npm run cypress
         
 Run Postman Tests
-    ```bash
+
         npm run postman
 
 ## 📊 Chatbot in Action
